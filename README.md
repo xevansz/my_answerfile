@@ -54,8 +54,6 @@ In addition to the tweaks I added to the answer file, it also contains elements 
   - [Ten Forums](https://www.tenforums.com/)
   - [Eleven Forum](https://www.elevenforum.com/)
   - [Winaero Tweaker](https://winaerotweaker.com/)
-- Memtechtips
-  - memunattendfile
 
 Chris Titus win utility is installed by the script.
 
